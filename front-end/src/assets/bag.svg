@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="bag" transform="matrix(1,0,0,1,0,-0.93992)">
+        <path d="M21.6,7.94L16.8,7.94L16.8,4.94C16.8,2.731 14.651,0.94 12,0.94C9.349,0.94 7.2,2.731 7.2,4.94L7.2,7.94L2.4,7.94L0,24.94L24,24.94L21.6,7.94ZM8.4,4.94C8.4,3.286 10.015,1.94 12,1.94C13.985,1.94 15.6,3.286 15.6,4.94L15.6,7.94L8.4,7.94L8.4,4.94ZM2.699,22.94L4.534,9.94L7.2,9.94L7.2,11.44C7.2,11.716 7.469,11.94 7.8,11.94C8.131,11.94 8.4,11.716 8.4,11.44L8.4,9.94L15.6,9.94L15.6,11.44C15.6,11.716 15.869,11.94 16.2,11.94C16.531,11.94 16.8,11.716 16.8,11.44L16.8,9.94L19.466,9.94L21.301,22.94L2.699,22.94Z" style="fill-rule:nonzero;"/>
+    </g>
+</svg>

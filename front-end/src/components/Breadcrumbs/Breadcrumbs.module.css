@@ -1,0 +1,22 @@
+.breadcrumbs {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.breadcrumbs li a {
+	font-size: 0.75rem;
+	text-transform: uppercase;
+}
+.breadcrumbs li a:global(.active) {
+	font-weight: 700;
+}
+.breadcrumbs img {
+	transform: rotate(-90deg);
+	margin-bottom: 2px;
+	margin-left: 0.5rem;
+}
+
+.breadcrumbs li:last-of-type img {
+	display: none;
+}

@@ -1,0 +1,10 @@
+.contentWrapper {
+	width: 100%;
+	max-width: 80rem;
+	margin: 0 auto;
+	padding: 0 1rem;
+}
+
+.verticalPadding{
+	padding: 2rem 1rem;
+}

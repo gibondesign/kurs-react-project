@@ -1,0 +1,25 @@
+.iconMenu {
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+	padding: 1rem;
+}
+
+.bagIconBox {
+	position: relative;
+}
+
+.numberOfProducts {
+	position: absolute;
+	bottom: -0.5rem;
+	right: -0.5rem;
+	aspect-ratio: 1/1;
+	border-radius: 50%;
+	width: 1.25rem;
+	background-color: var(--color-yellow);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.5rem;
+    font-weight: 700;
+}

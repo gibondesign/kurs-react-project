@@ -1,0 +1,31 @@
+.product {
+	position: relative;
+	margin-bottom: 2rem;
+}
+.productPhoto {
+	max-width: 15rem;
+}
+
+
+
+.heartIcon{
+	position: absolute;
+	top: 0.5rem;
+	left: 0.5rem;
+
+	width: 1.5rem;
+	aspect-ratio: 1/1;
+	background-image: url('../../assets/heart.svg');
+	background-repeat: no-repeat;
+}
+.heartIcon:hover{
+	background-image: url('../../assets/heart-full.svg');
+}
+
+.name {
+	padding: 0.5rem 0;
+	font-weight: 700;
+}
+.price {
+	color: var(--color-price);
+}
